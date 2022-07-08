@@ -2,10 +2,12 @@
   "id": 1779800329,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-07",
+    "date:cessation_upper": "2022-07-07",
     "date:inception_lower": "2022-07-07",
     "date:inception_upper": "2022-07-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-07",
+    "edtf:cessation": "2022-07-07T06:55:00Z",
+    "edtf:inception": "2022-07-07T00:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "27910522"
+    },
     "wof:country": "US",
     "wof:created": 1657296888,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -92,7 +97,7 @@
       1763588285,
       1159283697
     ],
-    "wof:lastmodified": 1657296888,
+    "wof:lastmodified": 1657298093,
     "wof:name": "UA2015 (BOS-SFO)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",
