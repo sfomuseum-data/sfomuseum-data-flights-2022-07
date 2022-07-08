@@ -1,0 +1,69 @@
+{
+  "id": 1779804795,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-07-07",
+    "date:inception_upper": "2022-07-07",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-07-07",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2022-07-07",
+    "flysfo:estimated_timestamp": 1657209660,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8195",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-DCA",
+    "flysfo:scheduled_timestamp": 1657208400,
+    "flysfo:timestamp": 1657209660,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-77.041643,38.850639",
+    "geom:latitude": 38.234314499999996,
+    "geom:longitude": -99.70629299999999,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 1746879047,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20220707-D-UAL-8195",
+    "sfomuseum:flight_number": [
+      "UAL8195",
+      "UA8195"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1657297976,
+    "wof:geomhash": "df4d5906f2523703f9da91c779be1785",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1779804795
+      }
+    ],
+    "wof:id": 1779804795,
+    "wof:involves": [
+      1746879047,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1657297976,
+    "wof:name": "UA8195 (SFO-DCA)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -77.041643,
+    38.850639
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-77.041643,38.850639]],"type":"MultiPoint"}
+}
