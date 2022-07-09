@@ -2,10 +2,12 @@
   "id": 1779812629,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-07-08",
-    "date:inception_upper": "2022-07-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-08",
+    "date:cessation_lower": "2022-07-09",
+    "date:cessation_upper": "2022-07-09",
+    "date:inception_lower": "2022-07-09",
+    "date:inception_upper": "2022-07-09",
+    "edtf:cessation": "2022-07-09T04:43:00Z",
+    "edtf:inception": "2022-07-09T03:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "B6",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "JBU",
     "icao:base_airline": "UAE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20220708-D-UAE-6365",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N665JB",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28013831",
+      "swim:gufi": "KO03327700"
+    },
     "wof:country": "US",
     "wof:created": 1657383913,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1779812629,
     "wof:involves": [
+      1159292085,
       102533795,
       102527513,
       1159284583,
       1763588181,
       1159284333
     ],
-    "wof:lastmodified": 1657383913,
+    "wof:lastmodified": 1657384331,
     "wof:name": "B62535 (SFO-LAX)",
     "wof:parent_id": 1763588181,
     "wof:placetype": "custom",
