@@ -2,10 +2,12 @@
   "id": 1779826379,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-10",
+    "date:cessation_upper": "2022-07-10",
     "date:inception_lower": "2022-07-10",
     "date:inception_upper": "2022-07-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-10",
+    "edtf:cessation": "2022-07-10T13:29:56-07:00",
+    "edtf:inception": "2022-07-10T22:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "CMP",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220710-A-CMP-2366",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37521",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28279155",
+      "swim:gufi": "KO07071200"
+    },
     "wof:country": "US",
     "wof:created": 1657556064,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1779826379,
     "wof:involves": [
+      1159284211,
+      1528104577,
       102527513,
       102533997,
       1159285413,
-      1763588329,
-      1159284211
+      1763588329
     ],
-    "wof:lastmodified": 1657556064,
+    "wof:lastmodified": 1657557114,
     "wof:name": "UA298 (HNL-SFO)",
     "wof:parent_id": 1763588329,
     "wof:placetype": "custom",

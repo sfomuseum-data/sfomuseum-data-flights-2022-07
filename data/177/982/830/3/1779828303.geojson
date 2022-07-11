@@ -2,10 +2,12 @@
   "id": 1779828303,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-11",
+    "date:cessation_upper": "2022-07-11",
     "date:inception_lower": "2022-07-10",
     "date:inception_upper": "2022-07-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-10",
+    "edtf:cessation": "2022-07-11T01:39:00Z",
+    "edtf:inception": "2022-07-10T21:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102525635,
     "sfomuseum:base_flight_id": "20220710-D-KAL-3471",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N871DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28275294",
+      "swim:gufi": "KO75042100"
+    },
     "wof:country": "US",
     "wof:created": 1657556548,
     "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
@@ -90,9 +103,10 @@
       102527513,
       1159284261,
       1763588243,
-      1159284625
+      1159284625,
+      1377564285
     ],
-    "wof:lastmodified": 1657556548,
+    "wof:lastmodified": 1657557118,
     "wof:name": "DL1036 (SFO-DTW)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

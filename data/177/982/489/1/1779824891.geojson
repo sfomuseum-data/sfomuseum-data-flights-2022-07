@@ -2,10 +2,12 @@
   "id": 1779824891,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-10",
+    "date:cessation_upper": "2022-07-10",
     "date:inception_lower": "2022-07-10",
     "date:inception_upper": "2022-07-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-10",
+    "edtf:cessation": "2022-07-10T11:47:01-07:00",
+    "edtf:inception": "2022-07-10T21:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220710-A-KLM-5336",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N812DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28271015",
+      "swim:gufi": "KC72001100"
+    },
     "wof:country": "US",
     "wof:created": 1657555676,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1779824891,
     "wof:involves": [
+      1377564285,
       102527513,
       102525635,
       1159284261,
       1763588245,
       1159284613
     ],
-    "wof:lastmodified": 1657555676,
+    "wof:lastmodified": 1657557126,
     "wof:name": "DL2820 (DTW-SFO)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",

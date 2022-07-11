@@ -2,10 +2,12 @@
   "id": 1779826985,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-10",
+    "date:cessation_upper": "2022-07-10",
     "date:inception_lower": "2022-07-10",
     "date:inception_upper": "2022-07-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-10",
+    "edtf:cessation": "2022-07-10T18:00:00Z",
+    "edtf:inception": "2022-07-10T16:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2022-07-10",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "AA",
+    "icao:aircraft": "A319",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:departure_id": 102527513,
@@ -48,6 +52,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28246757"
+    },
     "wof:country": "US",
     "wof:created": 1657556218,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -84,9 +91,10 @@
       102526751,
       102527513,
       1159283849,
-      1763588213
+      1763588213,
+      1159289407
     ],
-    "wof:lastmodified": 1657556218,
+    "wof:lastmodified": 1657557116,
     "wof:name": "AA2018 (SFO-PHX)",
     "wof:parent_id": 1763588213,
     "wof:placetype": "custom",
