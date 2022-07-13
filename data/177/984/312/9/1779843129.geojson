@@ -2,10 +2,12 @@
   "id": 1779843129,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-12",
+    "date:cessation_upper": "2022-07-12",
     "date:inception_lower": "2022-07-12",
     "date:inception_upper": "2022-07-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-12",
+    "edtf:cessation": "2022-07-12T06:46:43Z",
+    "edtf:inception": "2022-07-12T00:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28377119"
+    },
     "wof:country": "US",
     "wof:created": 1657728945,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -92,7 +97,7 @@
       1763588337,
       1159283697
     ],
-    "wof:lastmodified": 1657728945,
+    "wof:lastmodified": 1657730068,
     "wof:name": "UA2176 (BOS-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",
