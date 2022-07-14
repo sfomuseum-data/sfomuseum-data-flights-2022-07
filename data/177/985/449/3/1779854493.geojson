@@ -2,10 +2,12 @@
   "id": 1779854493,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-13",
+    "date:cessation_upper": "2022-07-13",
     "date:inception_lower": "2022-07-13",
     "date:inception_upper": "2022-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-13",
+    "edtf:cessation": "2022-07-13T01:58:13Z",
+    "edtf:inception": "2022-07-13T01:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-07-13",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28472940"
+    },
     "wof:country": "US",
     "wof:created": 1657816029,
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
@@ -86,7 +91,7 @@
       1159285591,
       1763588191
     ],
-    "wof:lastmodified": 1657816029,
+    "wof:lastmodified": 1657816312,
     "wof:name": "WN2437 (SFO-BUR)",
     "wof:parent_id": 1763588191,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1779854683,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-14",
+    "date:cessation_upper": "2022-07-14",
     "date:inception_lower": "2022-07-13",
     "date:inception_upper": "2022-07-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-13",
+    "edtf:cessation": "2022-07-14T02:01:00Z",
+    "edtf:inception": "2022-07-13T22:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534097,
     "sfomuseum:base_flight_id": "20220713-D-ANZ-9196",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N32404",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28553478",
+      "swim:gufi": "KO69097400"
+    },
     "wof:country": "US",
     "wof:created": 1657816077,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1779854683,
     "wof:involves": [
+      1763588285,
+      1159283697,
+      1377564285,
       102534097,
       102527513,
-      1159285413,
-      1763588285,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1657816077,
+    "wof:lastmodified": 1657816313,
     "wof:name": "UA1435 (SFO-IAH)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",
