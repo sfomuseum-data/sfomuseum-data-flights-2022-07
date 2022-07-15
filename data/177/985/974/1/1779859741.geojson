@@ -2,10 +2,12 @@
   "id": 1779859741,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-14",
+    "date:cessation_upper": "2022-07-14",
     "date:inception_lower": "2022-07-14",
     "date:inception_upper": "2022-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-14",
+    "edtf:cessation": "2022-07-14T15:01:53-07:00",
+    "edtf:inception": "2022-07-14T23:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "TS",
     "flysfo:date": "2022-07-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.539997,
     "geom:longitude": -98.057846,
     "iata:airline": "TS",
+    "icao:aircraft": "A21N",
     "icao:airline": "TSC",
     "lbl:latitude": 37.617458,
     "lbl:longitude": -122.391079,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283753,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102554351,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "CGOIM",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28660201"
+    },
     "wof:country": "US",
     "wof:created": 1657901650,
     "wof:geomhash": "d6fced31e2f30d79d54c9b38b6916cc7",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1779859741,
     "wof:involves": [
+      1763588443,
+      1377564297,
       102527513,
       102554351,
-      1159283753,
-      1763588443
+      1159283753
     ],
-    "wof:lastmodified": 1657901650,
+    "wof:lastmodified": 1657902849,
     "wof:name": "TS224 (YUL-SFO)",
     "wof:parent_id": 1763588443,
     "wof:placetype": "custom",
