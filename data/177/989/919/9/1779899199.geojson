@@ -1,0 +1,69 @@
+{
+  "id": 1779899199,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-07-15",
+    "date:inception_upper": "2022-07-15",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-07-15",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2022-07-15",
+    "flysfo:estimated_timestamp": 1657954440,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8123",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-IND",
+    "flysfo:scheduled_timestamp": 1657952160,
+    "flysfo:timestamp": 1657954440,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-86.278675,39.730262",
+    "geom:latitude": 38.674126,
+    "geom:longitude": -104.324809,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102534155,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20220715-D-UAL-8123",
+    "sfomuseum:flight_number": [
+      "UAL8123",
+      "UA8123"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1657989028,
+    "wof:geomhash": "75b67362ad403f806ec665af17b684aa",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1779899199
+      }
+    ],
+    "wof:id": 1779899199,
+    "wof:involves": [
+      102534155,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1657989028,
+    "wof:name": "UA8123 (SFO-IND)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -86.278675,
+    39.730262
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-86.278675,39.730262]],"type":"MultiPoint"}
+}
