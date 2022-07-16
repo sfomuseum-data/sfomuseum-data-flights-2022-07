@@ -2,10 +2,12 @@
   "id": 1779895423,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-15",
+    "date:cessation_upper": "2022-07-15",
     "date:inception_lower": "2022-07-15",
     "date:inception_upper": "2022-07-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-15",
+    "edtf:cessation": "2022-07-15T03:37:09-07:00",
+    "edtf:inception": "2022-07-15T16:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-07-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620534,
     "lbl:longitude": -122.388506,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N786UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28761578",
+      "swim:gufi": "KL48927600"
+    },
     "wof:country": "US",
     "wof:created": 1657988074,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1779895423,
     "wof:involves": [
+      1159289985,
       102527513,
       102533795,
       1159285413,
       1763588309
     ],
-    "wof:lastmodified": 1657988074,
+    "wof:lastmodified": 1657989154,
     "wof:name": "UA2735 (LAX-SFO)",
     "wof:parent_id": 1763588309,
     "wof:placetype": "custom",
