@@ -2,10 +2,12 @@
   "id": 1779905723,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-16",
+    "date:cessation_upper": "2022-07-16",
     "date:inception_lower": "2022-07-16",
     "date:inception_upper": "2022-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-16",
+    "edtf:cessation": "2022-07-16T05:50:05Z",
+    "edtf:inception": "2022-07-16T00:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-07-16",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "28756333"
+    },
     "wof:country": "US",
     "wof:created": 1658075242,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -50,7 +55,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1658075242,
+    "wof:lastmodified": 1658075468,
     "wof:name": "UA1428 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

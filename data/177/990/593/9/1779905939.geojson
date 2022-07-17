@@ -2,10 +2,12 @@
   "id": 1779905939,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-16",
+    "date:cessation_upper": "2022-07-16",
     "date:inception_lower": "2022-07-16",
     "date:inception_upper": "2022-07-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-16",
+    "edtf:cessation": "2022-07-16T20:41:00Z",
+    "edtf:inception": "2022-07-16T19:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-07-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.6967075,
     "geom:longitude": -116.76460499999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530815,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N836UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28841504",
+      "swim:gufi": "KO60920700"
+    },
     "wof:country": "US",
     "wof:created": 1658075296,
     "wof:geomhash": "8115bc7828d3bd6404c793fb172971b8",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1779905939,
     "wof:involves": [
+      1159289407,
       102530815,
       102527513,
       1159285413,
       1763588291
     ],
-    "wof:lastmodified": 1658075296,
+    "wof:lastmodified": 1658075470,
     "wof:name": "UA2678 (SFO-BZN)",
     "wof:parent_id": 1763588291,
     "wof:placetype": "custom",
