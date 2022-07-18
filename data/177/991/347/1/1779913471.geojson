@@ -2,10 +2,12 @@
   "id": 1779913471,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-17",
+    "date:cessation_upper": "2022-07-17",
     "date:inception_lower": "2022-07-17",
     "date:inception_upper": "2022-07-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-17",
+    "edtf:cessation": "2022-07-17T19:14:00Z",
+    "edtf:inception": "2022-07-17T01:23:02-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -106.31638749999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "VOZ",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530009,
     "sfomuseum:base_flight_id": "20220717-D-VOZ-8476",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N822UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "28909155",
+      "swim:gufi": "KO46646100"
+    },
     "wof:country": "US",
     "wof:created": 1658161839,
     "wof:geomhash": "8b4edcad4124de1c487808d2d2d1ecd3",
@@ -90,9 +104,10 @@
       102527513,
       1159285413,
       1763588329,
-      1159285485
+      1159285485,
+      1159289407
     ],
-    "wof:lastmodified": 1658161839,
+    "wof:lastmodified": 1658162027,
     "wof:name": "UA2620 (SFO-MSY)",
     "wof:parent_id": 1763588329,
     "wof:placetype": "custom",
