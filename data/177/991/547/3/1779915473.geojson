@@ -2,10 +2,12 @@
   "id": 1779915473,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-18",
+    "date:cessation_upper": "2022-07-18",
     "date:inception_lower": "2022-07-18",
     "date:inception_upper": "2022-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-18",
+    "edtf:cessation": "2022-07-18T22:52:00Z",
+    "edtf:inception": "2022-07-18T20:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2022-07-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "AA",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527363,
@@ -48,6 +52,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "29092350"
+    },
     "wof:country": "US",
     "wof:created": 1658246546,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -84,9 +91,10 @@
       102527513,
       102527363,
       1159283849,
-      1763588217
+      1763588217,
+      1159289411
     ],
-    "wof:lastmodified": 1658246546,
+    "wof:lastmodified": 1658248348,
     "wof:name": "AA9602 (SLC-SFO)",
     "wof:parent_id": 1763588217,
     "wof:placetype": "custom",
