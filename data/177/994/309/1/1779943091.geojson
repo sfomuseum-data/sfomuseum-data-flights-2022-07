@@ -2,10 +2,12 @@
   "id": 1779943091,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-21",
+    "date:cessation_upper": "2022-07-21",
     "date:inception_lower": "2022-07-21",
     "date:inception_upper": "2022-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-21",
+    "edtf:cessation": "2022-07-21T17:36:00Z",
+    "edtf:inception": "2022-07-21T13:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20220721-D-KLM-8043",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N589NW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "29262208",
+      "swim:gufi": "KO43861503"
+    },
     "wof:country": "US",
     "wof:created": 1658507132,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1779943091,
     "wof:involves": [
-      102526927,
       102527513,
       1159284261,
       1763588251,
-      1159284613
+      1159284613,
+      1159289945,
+      102526927
     ],
-    "wof:lastmodified": 1658507132,
+    "wof:lastmodified": 1658507723,
     "wof:name": "DL768 (SFO-ATL)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

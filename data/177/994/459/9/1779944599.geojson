@@ -2,10 +2,12 @@
   "id": 1779944599,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-22",
+    "date:cessation_upper": "2022-07-22",
     "date:inception_lower": "2022-07-21",
     "date:inception_upper": "2022-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-21",
+    "edtf:cessation": "2022-07-22T00:56:00Z",
+    "edtf:inception": "2022-07-21T09:58:30-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.619531,
     "lbl:longitude": -122.384262,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20220721-D-ACA-5421",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N26208",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "29327688",
+      "swim:gufi": "KO71820500"
+    },
     "wof:country": "US",
     "wof:created": 1658507525,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1779944599,
     "wof:involves": [
+      1159289871,
       102527209,
       102527513,
       1159285413,
       1763588355,
       1159283597
     ],
-    "wof:lastmodified": 1658507525,
+    "wof:lastmodified": 1658507728,
     "wof:name": "UA468 (SFO-LAS)",
     "wof:parent_id": 1763588355,
     "wof:placetype": "custom",

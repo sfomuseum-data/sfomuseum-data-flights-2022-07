@@ -2,10 +2,12 @@
   "id": 1779939425,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-21",
+    "date:cessation_upper": "2022-07-21",
     "date:inception_lower": "2022-07-21",
     "date:inception_upper": "2022-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-21",
+    "edtf:cessation": "2022-07-21T07:46:03-07:00",
+    "edtf:inception": "2022-07-21T20:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.61799,
@@ -39,6 +42,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N304DU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "29287267",
+      "swim:gufi": "KU69721500"
+    },
     "wof:country": "US",
     "wof:created": 1658506161,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -92,7 +105,7 @@
       1763588249,
       1159284613
     ],
-    "wof:lastmodified": 1658506161,
+    "wof:lastmodified": 1658507712,
     "wof:name": "DL1317 (SLC-SFO)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",
