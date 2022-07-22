@@ -1,0 +1,69 @@
+{
+  "id": 1779939481,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-07-21",
+    "date:inception_upper": "2022-07-21",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-07-21",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2022-07-21",
+    "flysfo:estimated_timestamp": 1658429940,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL458",
+    "flysfo:gate": "",
+    "flysfo:journey": "BIH-SFO",
+    "flysfo:scheduled_timestamp": 1658427480,
+    "flysfo:timestamp": 1658429940,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.373100,-118.363998,37.617990",
+    "geom:latitude": 37.495545,
+    "geom:longitude": -120.3674705,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527547,
+    "sfomuseum:flight_id": "20220721-A-DAL-458",
+    "sfomuseum:flight_number": [
+      "DAL458",
+      "DL458"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1658506175,
+    "wof:geomhash": "3dd9109e023b838addb2fc760e69bcf5",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1779939481
+      }
+    ],
+    "wof:id": 1779939481,
+    "wof:involves": [
+      102527513,
+      102527547,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1658506175,
+    "wof:name": "DL458 (BIH-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.3731,
+    -118.363998,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-118.363998,37.3731],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
