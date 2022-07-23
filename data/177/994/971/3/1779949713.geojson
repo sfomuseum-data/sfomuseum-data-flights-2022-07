@@ -2,10 +2,12 @@
   "id": 1779949713,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-23",
+    "date:cessation_upper": "2022-07-23",
     "date:inception_lower": "2022-07-22",
     "date:inception_upper": "2022-07-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-22",
+    "edtf:cessation": "2022-07-22T23:59:57-07:00",
+    "edtf:inception": "2022-07-22T13:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-07-22",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.868524,
     "geom:longitude": -122.79198650000001,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533927,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N850UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "29368079",
+      "swim:gufi": "KS41465600"
+    },
     "wof:country": "US",
     "wof:created": 1658592899,
     "wof:geomhash": "68b06bbd791163721a20ab955d143e55",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1779949713,
     "wof:involves": [
+      1159289407,
       102527513,
       102533927,
       1159285413,
       1763588147
     ],
-    "wof:lastmodified": 1658592899,
+    "wof:lastmodified": 1658594037,
     "wof:name": "UA2049 (EUG-SFO)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",
