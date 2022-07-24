@@ -2,10 +2,12 @@
   "id": 1779958849,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2022-07-23",
     "date:inception_upper": "2022-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-23",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2022-07-23T10:54:06-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DE",
     "flysfo:date": "2022-07-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.781954,
     "geom:longitude": -57.5518295,
     "iata:airline": "DE",
+    "icao:aircraft": "B763",
     "icao:airline": "CFG",
     "lbl:latitude": 37.612048,
     "lbl:longitude": -122.389573,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159284193,
     "sfomuseum:arrival_id": 102549057,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "DABUI",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -84,9 +92,10 @@
       102549057,
       102527513,
       1159284193,
-      1763588413
+      1763588413,
+      1159289965
     ],
-    "wof:lastmodified": 1658679802,
+    "wof:lastmodified": 1658680347,
     "wof:name": "DE2093 (SFO-FRA)",
     "wof:parent_id": 1763588413,
     "wof:placetype": "custom",

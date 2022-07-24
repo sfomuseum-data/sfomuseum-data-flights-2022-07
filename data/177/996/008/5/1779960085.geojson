@@ -2,10 +2,12 @@
   "id": 1779960085,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-23",
+    "date:cessation_upper": "2022-07-23",
     "date:inception_lower": "2022-07-23",
     "date:inception_upper": "2022-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-23",
+    "edtf:cessation": "2022-07-23T03:24:28Z",
+    "edtf:inception": "2022-07-23T01:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "29442682"
+    },
     "wof:country": "US",
     "wof:created": 1658680118,
     "wof:geomhash": "9f2aefec298b0356dc0b4065c5b61f73",
@@ -92,7 +97,7 @@
       1763588283,
       1159283697
     ],
-    "wof:lastmodified": 1658680118,
+    "wof:lastmodified": 1658680336,
     "wof:name": "UA1579 (SFO-JAC)",
     "wof:parent_id": 1763588283,
     "wof:placetype": "custom",
