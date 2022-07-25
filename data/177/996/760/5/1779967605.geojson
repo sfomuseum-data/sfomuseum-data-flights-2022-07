@@ -2,10 +2,12 @@
   "id": 1779967605,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-25",
+    "date:cessation_upper": "2022-07-25",
     "date:inception_lower": "2022-07-24",
     "date:inception_upper": "2022-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-24",
+    "edtf:cessation": "2022-07-25T10:45:00Z",
+    "edtf:inception": "2022-07-24T16:45:34-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-07-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.647171,
     "geom:longitude": -100.9996425,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N12225",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO13397200"
+    },
     "wof:country": "US",
     "wof:created": 1658766723,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1779967605,
     "wof:involves": [
+      1159289871,
       102555091,
       102527513,
       1159285413,
       1763588149
     ],
-    "wof:lastmodified": 1658766723,
+    "wof:lastmodified": 1658766873,
     "wof:name": "UA643 (SFO-YYZ)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

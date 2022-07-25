@@ -2,10 +2,12 @@
   "id": 1779963083,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-24",
+    "date:cessation_upper": "2022-07-24",
     "date:inception_lower": "2022-07-24",
     "date:inception_upper": "2022-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-24",
+    "edtf:cessation": "2022-07-24T17:18:49Z",
+    "edtf:inception": "2022-07-24T04:27:27Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "PR",
     "flysfo:date": "2022-07-24",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "29547258"
+    },
     "wof:country": "US",
     "wof:created": 1658765510,
     "wof:geomhash": "5a4fd58c6aeb5f6f6368af3561d0b192",
@@ -86,7 +91,7 @@
       1159285015,
       1763588409
     ],
-    "wof:lastmodified": 1658765510,
+    "wof:lastmodified": 1658766862,
     "wof:name": "PR114 (MNL-SFO)",
     "wof:parent_id": 1763588409,
     "wof:placetype": "custom",

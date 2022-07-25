@@ -2,10 +2,12 @@
   "id": 1779961969,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-24",
+    "date:cessation_upper": "2022-07-24",
     "date:inception_lower": "2022-07-24",
     "date:inception_upper": "2022-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-24",
+    "edtf:cessation": "2022-07-24T16:55:00Z",
+    "edtf:inception": "2022-07-24T16:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "29577943"
+    },
     "wof:country": "US",
     "wof:created": 1658765219,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -92,7 +97,7 @@
       1763588157,
       1159284327
     ],
-    "wof:lastmodified": 1658765219,
+    "wof:lastmodified": 1658766875,
     "wof:name": "AS307 (LAX-SFO)",
     "wof:parent_id": 1763588157,
     "wof:placetype": "custom",
