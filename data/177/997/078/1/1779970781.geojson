@@ -2,10 +2,12 @@
   "id": 1779970781,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-25",
+    "date:cessation_upper": "2022-07-25",
     "date:inception_lower": "2022-07-25",
     "date:inception_upper": "2022-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-25",
+    "edtf:cessation": "2022-07-25T22:21:46Z",
+    "edtf:inception": "2022-07-25T11:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LH",
     "flysfo:date": "2022-07-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.781954,
     "geom:longitude": -57.5518295,
     "iata:airline": "LH",
+    "icao:aircraft": "A332",
     "icao:airline": "DLH",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289421,
     "sfomuseum:airline_id": 1159286015,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102549057,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "DAXGB",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +56,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "29734792"
+    },
     "wof:country": "US",
     "wof:created": 1658851788,
     "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
@@ -81,12 +92,13 @@
     ],
     "wof:id": 1779970781,
     "wof:involves": [
+      1159289421,
       102527513,
       102549057,
       1159286015,
       1763588465
     ],
-    "wof:lastmodified": 1658851788,
+    "wof:lastmodified": 1658853278,
     "wof:name": "LH342 (FRA-SFO)",
     "wof:parent_id": 1763588465,
     "wof:placetype": "custom",

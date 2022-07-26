@@ -2,10 +2,12 @@
   "id": 1779969833,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-26",
+    "date:cessation_upper": "2022-07-26",
     "date:inception_lower": "2022-07-25",
     "date:inception_upper": "2022-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-25",
+    "edtf:cessation": "2022-07-26T02:50:00Z",
+    "edtf:inception": "2022-07-25T22:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.7258735,
     "iata:airline": "AM",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "AMX",
     "icao:base_airline": "VIR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220725-A-VIR-7523",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "XAAMN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1779969833,
     "wof:involves": [
-      102527513,
-      102536579,
       1159283539,
       1763588401,
-      1159285483
+      1159285483,
+      1159289871,
+      102527513,
+      102536579
     ],
-    "wof:lastmodified": 1658851523,
+    "wof:lastmodified": 1658853276,
     "wof:name": "AM664 (MEX-SFO)",
     "wof:parent_id": 1763588401,
     "wof:placetype": "custom",

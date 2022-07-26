@@ -2,10 +2,12 @@
   "id": 1779975665,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-26",
+    "date:cessation_upper": "2022-07-26",
     "date:inception_lower": "2022-07-25",
     "date:inception_upper": "2022-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-25",
+    "edtf:cessation": "2022-07-26T04:52:00Z",
+    "edtf:inception": "2022-07-25T11:40:11-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-07-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N2749U",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO80174200"
+    },
     "wof:country": "US",
     "wof:created": 1658853076,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1779975665,
     "wof:involves": [
+      1159289993,
       102533631,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1658853076,
+    "wof:lastmodified": 1658853290,
     "wof:name": "UA2798 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
