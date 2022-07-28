@@ -2,10 +2,12 @@
   "id": 1779991529,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-28",
+    "date:cessation_upper": "2022-07-28",
     "date:inception_lower": "2022-07-27",
     "date:inception_upper": "2022-07-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-27",
+    "edtf:cessation": "2022-07-28T07:41:00Z",
+    "edtf:inception": "2022-07-27T12:49:18-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-07-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.256470999999998,
     "geom:longitude": -139.40440999999998,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532929,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N87512",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO01937500"
+    },
     "wof:country": "US",
     "wof:created": 1659025866,
     "wof:geomhash": "8c8f659fbae3cc58419f360e0abfbe56",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1779991529,
     "wof:involves": [
+      1159289871,
       102532929,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1659025866,
+    "wof:lastmodified": 1659026034,
     "wof:name": "UA8178 (SFO-OGG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
