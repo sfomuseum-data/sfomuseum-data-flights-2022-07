@@ -2,10 +2,12 @@
   "id": 1779999923,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-29",
+    "date:cessation_upper": "2022-07-29",
     "date:inception_lower": "2022-07-28",
     "date:inception_upper": "2022-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-28",
+    "edtf:cessation": "2022-07-29T04:12:00Z",
+    "edtf:inception": "2022-07-28T13:01:04-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-07-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.175762,
     "geom:longitude": -119.778435,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528997,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N483UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO02649600"
+    },
     "wof:country": "US",
     "wof:created": 1659112411,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1779999923,
     "wof:involves": [
+      1159292085,
       102528997,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1659112411,
+    "wof:lastmodified": 1659112617,
     "wof:name": "UA8241 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

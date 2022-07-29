@@ -2,10 +2,12 @@
   "id": 1779999697,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-28",
+    "date:cessation_upper": "2022-07-28",
     "date:inception_lower": "2022-07-28",
     "date:inception_upper": "2022-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-28",
+    "edtf:cessation": "2022-07-28T03:10:32Z",
+    "edtf:inception": "2022-07-28T02:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "29906652"
+    },
     "wof:country": "US",
     "wof:created": 1659112353,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -92,7 +100,7 @@
       1763588287,
       1159283597
     ],
-    "wof:lastmodified": 1659112353,
+    "wof:lastmodified": 1659112609,
     "wof:name": "UA2641 (SFO-SAN)",
     "wof:parent_id": 1763588287,
     "wof:placetype": "custom",

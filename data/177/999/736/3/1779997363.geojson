@@ -2,10 +2,12 @@
   "id": 1779997363,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-29",
+    "date:cessation_upper": "2022-07-29",
     "date:inception_lower": "2022-07-28",
     "date:inception_upper": "2022-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-28",
+    "edtf:cessation": "2022-07-29T08:33:21Z",
+    "edtf:inception": "2022-07-28T22:52:03Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NH",
     "flysfo:date": "2022-07-28",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.686867,
     "geom:longitude": 9.012156999999995,
     "iata:airline": "NH",
+    "icao:aircraft": "B789",
     "icao:airline": "ANA",
     "lbl:latitude": 37.618057,
     "lbl:longitude": -122.392508,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159283875,
     "sfomuseum:arrival_id": 102541685,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "JA896A",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "30087321"
+    },
     "wof:country": "US",
     "wof:created": 1659111750,
     "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1779997363,
     "wof:involves": [
+      1159293215,
       102541685,
       102527513,
       1159283875,
       1763588451
     ],
-    "wof:lastmodified": 1659111750,
+    "wof:lastmodified": 1659112604,
     "wof:name": "NH9643 (SFO-NRT)",
     "wof:parent_id": 1763588451,
     "wof:placetype": "custom",
