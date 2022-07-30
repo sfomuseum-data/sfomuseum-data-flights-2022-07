@@ -2,10 +2,12 @@
   "id": 1780005097,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-29",
+    "date:cessation_upper": "2022-07-29",
     "date:inception_lower": "2022-07-29",
     "date:inception_upper": "2022-07-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-29",
+    "edtf:cessation": "2022-07-29T06:06:35Z",
+    "edtf:inception": "2022-07-29T01:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "29967515"
+    },
     "wof:country": "US",
     "wof:created": 1659198168,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -92,7 +97,7 @@
       1763588141,
       1159283849
     ],
-    "wof:lastmodified": 1659198168,
+    "wof:lastmodified": 1659198871,
     "wof:name": "AS340 (SFO-EWR)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",

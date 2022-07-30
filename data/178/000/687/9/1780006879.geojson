@@ -2,10 +2,12 @@
   "id": 1780006879,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-29",
+    "date:cessation_upper": "2022-07-29",
     "date:inception_lower": "2022-07-29",
     "date:inception_upper": "2022-07-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-29",
+    "edtf:cessation": "2022-07-29T07:48:12Z",
+    "edtf:inception": "2022-07-29T06:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-07-29",
@@ -48,6 +50,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "30017131"
+    },
     "wof:country": "US",
     "wof:created": 1659198619,
     "wof:geomhash": "398b6cf59cf3bdf390f5834c7a336099",
@@ -86,7 +91,7 @@
       1159285413,
       1763588339
     ],
-    "wof:lastmodified": 1659198619,
+    "wof:lastmodified": 1659198875,
     "wof:name": "UA2005 (SFO-RDM)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",
