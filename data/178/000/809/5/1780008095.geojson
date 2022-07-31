@@ -2,10 +2,12 @@
   "id": 1780008095,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-07-30",
+    "date:cessation_upper": "2022-07-30",
     "date:inception_lower": "2022-07-30",
     "date:inception_upper": "2022-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-30",
+    "edtf:cessation": "2022-07-30T15:18:34-07:00",
+    "edtf:inception": "2022-07-30T04:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.61799,
@@ -39,7 +42,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "CGJXE",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "30113699"
+    },
     "wof:country": "US",
     "wof:created": 1659283475,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -56,7 +66,7 @@
       -1,
       1159285749
     ],
-    "wof:lastmodified": 1659283475,
+    "wof:lastmodified": 1659285207,
     "wof:name": "AC568 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
