@@ -2,10 +2,12 @@
   "id": 1780023675,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-08-01",
+    "date:cessation_upper": "2022-08-01",
     "date:inception_lower": "2022-07-31",
     "date:inception_upper": "2022-07-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-07-31",
+    "edtf:cessation": "2022-08-01T04:23:19Z",
+    "edtf:inception": "2022-07-31T12:38:54-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:base_flight_id": "20220731-D-AVA-2360",
@@ -39,7 +43,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N441UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO86179100"
+    },
     "wof:country": "US",
     "wof:created": 1659371486,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -53,10 +66,10 @@
       102555307,
       102527513,
       1159285413,
-      -1,
-      1159285749
+      1159285749,
+      1159292085
     ],
-    "wof:lastmodified": 1659371486,
+    "wof:lastmodified": 1659371730,
     "wof:name": "UA460 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
