@@ -53,6 +53,7 @@
     "wof:geomhash": "a4d4dc469296ca0f5ad383dc766835b1",
     "wof:hierarchy": [
       {
+        "custom_id": 1779851693,
         "flight_id": 1779851693
       }
     ],
@@ -63,11 +64,13 @@
       102525535,
       1159285413
     ],
-    "wof:lastmodified": 1657816318,
+    "wof:lastmodified": 1717040443,
     "wof:name": "UA8129 (RNO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

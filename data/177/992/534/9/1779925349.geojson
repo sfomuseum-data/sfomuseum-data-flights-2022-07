@@ -53,6 +53,7 @@
     "wof:geomhash": "68b06bbd791163721a20ab955d143e55",
     "wof:hierarchy": [
       {
+        "custom_id": 1779925349,
         "flight_id": 1779925349
       }
     ],
@@ -64,11 +65,13 @@
       1159285413,
       1159285749
     ],
-    "wof:lastmodified": 1658334835,
+    "wof:lastmodified": 1717040452,
     "wof:name": "UA2191 (EUG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

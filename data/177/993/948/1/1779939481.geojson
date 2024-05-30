@@ -40,6 +40,7 @@
     "wof:geomhash": "3dd9109e023b838addb2fc760e69bcf5",
     "wof:hierarchy": [
       {
+        "custom_id": 1779939481,
         "flight_id": 1779939481
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1658506175,
+    "wof:lastmodified": 1717040454,
     "wof:name": "DL458 (BIH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
     "wof:hierarchy": [
       {
+        "custom_id": 1779965399,
         "flight_id": 1779965399
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1658766125,
+    "wof:lastmodified": 1717040453,
     "wof:name": "NZ9597 (SFO-RNO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

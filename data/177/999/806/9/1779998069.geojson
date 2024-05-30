@@ -45,6 +45,7 @@
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
     "wof:hierarchy": [
       {
+        "custom_id": 1779998069,
         "flight_id": 1779998069
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1377675597
     ],
-    "wof:lastmodified": 1659111934,
+    "wof:lastmodified": 1717040457,
     "wof:name": "SN8824 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

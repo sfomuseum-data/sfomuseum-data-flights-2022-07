@@ -45,6 +45,7 @@
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy": [
       {
+        "custom_id": 1779906365,
         "flight_id": 1779906365
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159285129
     ],
-    "wof:lastmodified": 1658075404,
+    "wof:lastmodified": 1717040450,
     "wof:name": "VA8156 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

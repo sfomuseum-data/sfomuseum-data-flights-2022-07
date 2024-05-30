@@ -58,6 +58,7 @@
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
     "wof:hierarchy": [
       {
+        "custom_id": 1780023675,
         "flight_id": 1780023675
       }
     ],
@@ -69,11 +70,13 @@
       1159285749,
       1159292085
     ],
-    "wof:lastmodified": 1659371730,
+    "wof:lastmodified": 1717040455,
     "wof:name": "UA460 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

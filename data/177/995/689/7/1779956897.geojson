@@ -53,6 +53,7 @@
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy": [
       {
+        "custom_id": 1779956897,
         "flight_id": 1779956897
       }
     ],
@@ -64,11 +65,13 @@
       1528104577,
       102527513
     ],
-    "wof:lastmodified": 1658680352,
+    "wof:lastmodified": 1717040454,
     "wof:name": "UA2480 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

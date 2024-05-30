@@ -49,6 +49,7 @@
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
+        "custom_id": 1779909425,
         "flight_id": 1779909425
       }
     ],
@@ -59,11 +60,13 @@
       102527209,
       1159285591
     ],
-    "wof:lastmodified": 1658162019,
+    "wof:lastmodified": 1717040452,
     "wof:name": "WN148 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -53,6 +53,7 @@
     "wof:geomhash": "cfff966b0a5de3ca50080923c4337cfe",
     "wof:hierarchy": [
       {
+        "custom_id": 1779962077,
         "flight_id": 1779962077
       }
     ],
@@ -63,11 +64,13 @@
       1746879047,
       1159283813
     ],
-    "wof:lastmodified": 1658766876,
+    "wof:lastmodified": 1717040450,
     "wof:name": "AS9800 (DCA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

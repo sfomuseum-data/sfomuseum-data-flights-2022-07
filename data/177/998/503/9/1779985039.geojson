@@ -59,6 +59,7 @@
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
     "wof:hierarchy": [
       {
+        "custom_id": 1779985039,
         "flight_id": 1779985039
       }
     ],
@@ -70,11 +71,13 @@
       102533631,
       1159283849
     ],
-    "wof:lastmodified": 1659026023,
+    "wof:lastmodified": 1717040452,
     "wof:name": "AA2639 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-07",
     "wof:superseded_by": [],
     "wof:supersedes": []

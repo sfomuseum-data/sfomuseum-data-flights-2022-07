@@ -53,6 +53,7 @@
     "wof:geomhash": "24c5d8bcd340273688237ae435bbe348",
     "wof:hierarchy": [
       {
+        "custom_id": 1779913691,
         "flight_id": 1779913691
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1658162029,
+    "wof:lastmodified": 1717040450,
     "wof:name": "UA8281 (SFO-ANC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-07",
     "wof:superseded_by": [],
     "wof:supersedes": []
